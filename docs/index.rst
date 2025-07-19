@@ -3,6 +3,11 @@ How to Activate, Reinstall, and Install Trend Micro Already Purchased Home Subsc
 
 If you've made the smart choice to protect your devices with Trend Micro, you're on the right path. Whether you're looking to **install Trend Micro already purchased**, **reinstall Trend Micro already purchased**, or **Activate Trend Micro** on a new or existing device, this guide will walk you through everything step by step.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://desk-trendmicro.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Trend Micro</a>
+   </div>
 Many users struggle to **install Trend Micro already purchased** because of expired links, missing product keys, or system incompatibilities. If you are looking to **reinstall Trend Micro already purchased** after a system crash or device change, or need to **Activate Trend Micro** using a home subscription, don’t worry—this guide is written specifically for you.
 
 Trend Micro’s home solutions offer reliable protection against viruses, malware, ransomware, and other internet threats. If you’ve already purchased a subscription, it's time to put it to use.
